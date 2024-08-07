@@ -42,6 +42,7 @@ This is a web application built using Flask that detects spam comments on YouTub
 
 - **Flask:** Web framework for Python.
 - **Pandas:** Data manipulation and analysis.
+- **NumPy:** Numerical Computing
 - **scikit-learn:** Machine learning library.
 - **CountVectorizer:** Feature extraction technique.
 - **Naive Bayes Classifier:** Machine learning algorithm.
